@@ -1,3 +1,16 @@
+# 两步安装与使用导航
+
+步骤一已安装：只新增步骤二目录，不覆盖现有技能。
+
+| 技能 | 用途 | 说明 |
+|---|---|---|
+| `$quarterly-data-analysis` | 步骤一数据填充，分析栏空白 | 下方为原步骤一说明 |
+| `$quarterly-summary-analysis` | 步骤二总结分析，保留原数据与素材 | [步骤二完整说明](step-2-usage.md) |
+
+[步骤一流程](step-1-workflow.html) · [步骤二流程](step-2-workflow.html)
+
+---
+
 # 安装与使用
 
 ## 安装
